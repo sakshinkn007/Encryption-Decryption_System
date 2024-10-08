@@ -12,8 +12,7 @@ This **Encryption and Decryption App** is a Python application built with **Tkin
 ## 🧑‍💻 How to Run
 
 1. Clone the repository:
-   
-   git clone https://github.com/yourusername/encryption-decryption-app.git
+   git clone https://github.com/sakshinkn007/Encryption-Decryption_System
 2. Navigate to the project directory:
   cd encryption-decryption-app
 3. Install any dependencies (if applicable):
